@@ -1,0 +1,13 @@
+.progresoU{
+    width: 100%;
+}
+.bordeFor{
+    border: 1px solid #565656;
+    padding: 2%;
+}
+.mostrar{
+    display: block;
+}
+.ocultar{
+    display:none;
+}
